@@ -1,0 +1,5 @@
+{
+    "auto_evade": true,
+    "scan_interval": 0.5,
+    "disaster_targets": ["flood", "meteor", "earthquake"]
+}
